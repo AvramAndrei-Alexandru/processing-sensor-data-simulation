@@ -1,0 +1,10 @@
+The number of distinct activities is: 9
+Activity -> Breakfast appeared 14 times
+Activity -> Grooming appeared 51 times
+Activity -> Leaving appeared 14 times
+Activity -> Lunch appeared 9 times
+Activity -> Showering appeared 14 times
+Activity -> Sleeping appeared 14 times
+Activity -> Snack appeared 11 times
+Activity -> Spare_Time/TV appeared 77 times
+Activity -> Toileting appeared 44 times

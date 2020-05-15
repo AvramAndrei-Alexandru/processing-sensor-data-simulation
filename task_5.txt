@@ -1,0 +1,9 @@
+Activity -> Breakfast with the total duration of 02:58:08
+Activity -> Grooming with the total duration of 02:40:42
+Activity -> Leaving with the total duration of 27:44:44
+Activity -> Lunch with the total duration of 05:13:31
+Activity -> Showering with the total duration of 01:34:09
+Activity -> Sleeping with the total duration of 131:03:31
+Activity -> Snack with the total duration of 00:06:01
+Activity -> Spare_Time/TV with the total duration of 142:28:55
+Activity -> Toileting with the total duration of 02:20:34

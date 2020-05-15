@@ -1,0 +1,15 @@
+The number of distinct days is: 14
+The day 2011-11-28T00:00 appeared 15 times
+The day 2011-11-29T00:00 appeared 19 times
+The day 2011-11-30T00:00 appeared 23 times
+The day 2011-12-01T00:00 appeared 16 times
+The day 2011-12-02T00:00 appeared 19 times
+The day 2011-12-03T00:00 appeared 13 times
+The day 2011-12-04T00:00 appeared 18 times
+The day 2011-12-05T00:00 appeared 25 times
+The day 2011-12-06T00:00 appeared 17 times
+The day 2011-12-07T00:00 appeared 26 times
+The day 2011-12-08T00:00 appeared 14 times
+The day 2011-12-09T00:00 appeared 18 times
+The day 2011-12-10T00:00 appeared 13 times
+The day 2011-12-11T00:00 appeared 12 times

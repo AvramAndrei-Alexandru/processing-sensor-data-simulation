@@ -1,0 +1,2 @@
+Activities with 90% of duration less than 5 min: 
+Activity -> Snack

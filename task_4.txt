@@ -1,0 +1,154 @@
+
+
+Day 2011-11-28T00:00 contains the activities: 
+Activity -> Breakfast appeared 1 times
+Activity -> Grooming appeared 2 times
+Activity -> Leaving appeared 1 times
+Activity -> Lunch appeared 1 times
+Activity -> Showering appeared 1 times
+Activity -> Sleeping appeared 1 times
+Activity -> Snack appeared 1 times
+Activity -> Spare_Time/TV appeared 4 times
+Activity -> Toileting appeared 3 times
+
+
+Day 2011-11-29T00:00 contains the activities: 
+Activity -> Breakfast appeared 1 times
+Activity -> Grooming appeared 3 times
+Activity -> Leaving appeared 1 times
+Activity -> Lunch appeared 1 times
+Activity -> Showering appeared 1 times
+Activity -> Sleeping appeared 1 times
+Activity -> Snack appeared 1 times
+Activity -> Spare_Time/TV appeared 6 times
+Activity -> Toileting appeared 4 times
+
+
+Day 2011-11-30T00:00 contains the activities: 
+Activity -> Breakfast appeared 1 times
+Activity -> Grooming appeared 2 times
+Activity -> Leaving appeared 1 times
+Activity -> Lunch appeared 1 times
+Activity -> Showering appeared 1 times
+Activity -> Sleeping appeared 1 times
+Activity -> Snack appeared 2 times
+Activity -> Spare_Time/TV appeared 8 times
+Activity -> Toileting appeared 6 times
+
+
+Day 2011-12-01T00:00 contains the activities: 
+Activity -> Breakfast appeared 1 times
+Activity -> Grooming appeared 3 times
+Activity -> Leaving appeared 1 times
+Activity -> Lunch appeared 1 times
+Activity -> Showering appeared 1 times
+Activity -> Sleeping appeared 1 times
+Activity -> Spare_Time/TV appeared 6 times
+Activity -> Toileting appeared 2 times
+
+
+Day 2011-12-02T00:00 contains the activities: 
+Activity -> Breakfast appeared 1 times
+Activity -> Grooming appeared 4 times
+Activity -> Lunch appeared 1 times
+Activity -> Showering appeared 1 times
+Activity -> Sleeping appeared 1 times
+Activity -> Snack appeared 1 times
+Activity -> Spare_Time/TV appeared 7 times
+Activity -> Toileting appeared 3 times
+
+
+Day 2011-12-03T00:00 contains the activities: 
+Activity -> Breakfast appeared 1 times
+Activity -> Grooming appeared 3 times
+Activity -> Leaving appeared 1 times
+Activity -> Showering appeared 1 times
+Activity -> Sleeping appeared 1 times
+Activity -> Spare_Time/TV appeared 4 times
+Activity -> Toileting appeared 2 times
+
+
+Day 2011-12-04T00:00 contains the activities: 
+Activity -> Breakfast appeared 1 times
+Activity -> Grooming appeared 2 times
+Activity -> Leaving appeared 1 times
+Activity -> Showering appeared 1 times
+Activity -> Sleeping appeared 1 times
+Activity -> Snack appeared 2 times
+Activity -> Spare_Time/TV appeared 6 times
+Activity -> Toileting appeared 4 times
+
+
+Day 2011-12-05T00:00 contains the activities: 
+Activity -> Breakfast appeared 1 times
+Activity -> Grooming appeared 6 times
+Activity -> Leaving appeared 2 times
+Activity -> Lunch appeared 1 times
+Activity -> Showering appeared 1 times
+Activity -> Sleeping appeared 1 times
+Activity -> Snack appeared 1 times
+Activity -> Spare_Time/TV appeared 7 times
+Activity -> Toileting appeared 5 times
+
+
+Day 2011-12-06T00:00 contains the activities: 
+Activity -> Breakfast appeared 1 times
+Activity -> Grooming appeared 4 times
+Activity -> Lunch appeared 1 times
+Activity -> Showering appeared 1 times
+Activity -> Sleeping appeared 1 times
+Activity -> Snack appeared 1 times
+Activity -> Spare_Time/TV appeared 5 times
+Activity -> Toileting appeared 3 times
+
+
+Day 2011-12-07T00:00 contains the activities: 
+Activity -> Breakfast appeared 1 times
+Activity -> Grooming appeared 5 times
+Activity -> Leaving appeared 1 times
+Activity -> Lunch appeared 1 times
+Activity -> Showering appeared 1 times
+Activity -> Sleeping appeared 1 times
+Activity -> Snack appeared 2 times
+Activity -> Spare_Time/TV appeared 8 times
+Activity -> Toileting appeared 6 times
+
+
+Day 2011-12-08T00:00 contains the activities: 
+Activity -> Breakfast appeared 1 times
+Activity -> Grooming appeared 5 times
+Activity -> Leaving appeared 1 times
+Activity -> Showering appeared 1 times
+Activity -> Sleeping appeared 1 times
+Activity -> Spare_Time/TV appeared 4 times
+Activity -> Toileting appeared 1 times
+
+
+Day 2011-12-09T00:00 contains the activities: 
+Activity -> Breakfast appeared 1 times
+Activity -> Grooming appeared 5 times
+Activity -> Leaving appeared 2 times
+Activity -> Showering appeared 1 times
+Activity -> Sleeping appeared 1 times
+Activity -> Spare_Time/TV appeared 6 times
+Activity -> Toileting appeared 2 times
+
+
+Day 2011-12-10T00:00 contains the activities: 
+Activity -> Breakfast appeared 1 times
+Activity -> Grooming appeared 4 times
+Activity -> Leaving appeared 2 times
+Activity -> Showering appeared 1 times
+Activity -> Sleeping appeared 1 times
+Activity -> Spare_Time/TV appeared 3 times
+Activity -> Toileting appeared 1 times
+
+
+Day 2011-12-11T00:00 contains the activities: 
+Activity -> Breakfast appeared 1 times
+Activity -> Grooming appeared 3 times
+Activity -> Lunch appeared 1 times
+Activity -> Showering appeared 1 times
+Activity -> Sleeping appeared 1 times
+Activity -> Spare_Time/TV appeared 3 times
+Activity -> Toileting appeared 2 times
